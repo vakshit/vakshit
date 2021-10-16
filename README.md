@@ -55,7 +55,7 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakshit&theme=radical&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakshit&theme=radical&layout=compact" alt="Top Langs" style="zoom:140%;" />
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p> -->
 
