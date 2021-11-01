@@ -1,5 +1,5 @@
 <h1 align="center">Hey, i'm Akshit</h1>
-<h3 align="center">Robotics and WebD Enthusiast, Electronics Engineer</h3>
+<h3 align="center">Robotics and WebD Enthusiast, Electrical Engineer</h3>
 
 <p align="center">
     <!-- <img src="https://komarev.com/ghpvc/?username=kalindkaria&label=Profile%20views&color=0e75b6&style=flat" alt="kalindkaria" /> -->
