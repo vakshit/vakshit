@@ -50,34 +50,16 @@
 
 ## :rocket: My Stats
 
-![Kalind's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vakshit&count_private=true&show_icons=true&theme=radical)
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vakshit&count_private=true&show_icons=true&theme=radical)
 <!-- &include_all_commits=true -->
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kalindkaria" /></p> -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindkaria&show_icons=true&theme=radical&locale=en&layout=compact" alt="Akshit" /></p> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakshit&theme=radical&layout=compact" alt="Top Langs" style="zoom:140%;" />
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalindkaria&show_icons=true&theme=radical&locale=en" alt="kalindkaria" /></p> -->
 
-![Kalind's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vakshit&theme=radical)
+![Akshit's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vakshit&theme=radical)
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vakshit&theme=dark" alt="kalindkaria" /></p> -->
 
-<!--
-
-### Hi there 👋 I'm Kalind
-
-**kalindkaria/kalindkaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
